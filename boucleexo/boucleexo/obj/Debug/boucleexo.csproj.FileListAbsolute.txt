@@ -1,0 +1,6 @@
+C:\Users\flo-l\source\repos\boucleexo\boucleexo\bin\Debug\boucleexo.exe.config
+C:\Users\flo-l\source\repos\boucleexo\boucleexo\bin\Debug\boucleexo.exe
+C:\Users\flo-l\source\repos\boucleexo\boucleexo\bin\Debug\boucleexo.pdb
+C:\Users\flo-l\source\repos\boucleexo\boucleexo\obj\Debug\boucleexo.exe
+C:\Users\flo-l\source\repos\boucleexo\boucleexo\obj\Debug\boucleexo.pdb
+C:\Users\flo-l\source\repos\boucleexo\boucleexo\obj\Debug\boucleexo.csprojAssemblyReference.cache
